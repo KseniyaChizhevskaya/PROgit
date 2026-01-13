@@ -1,4 +1,5 @@
-const KseniyaChizhevskaya
+const KseniyaChizhevskaya = 123;
+
 /*GIT
 
 Основные понятия Git
