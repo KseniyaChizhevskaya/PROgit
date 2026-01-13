@@ -1,4 +1,6 @@
+const KseniyaChizhevskaya
 /*GIT
+
 Основные понятия Git
 
 Термин	Что это
