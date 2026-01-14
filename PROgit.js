@@ -1,4 +1,8 @@
+const KseniyaChizhevskaya = 123;
+const KseniyaChizhevskaya2 = 1234;
+
 /*GIT
+
 Основные понятия Git
 
 Термин	Что это
